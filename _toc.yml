@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: pull_data_from_kaggle_to_gdrive
+- file: Create_Tfr
 - file: notebooks
